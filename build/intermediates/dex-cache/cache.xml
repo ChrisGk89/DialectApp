@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_f395948107677403bbda3fcb207c9bb4b763a994/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="076639e22f1ab0d496e91679ab4cd3f008976a47">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7ea4944f51e81b742ecc1bb15b887564341609a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_9fbe263e58481c7164264c9c7bec0a167f3bd79a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea05b9559578469c88d6c673a0c88856ab42894b">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb954e6408bf1dc4995b3f4ccf220f5f3ddf85e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_9afc9c01aa13075fb06d706e053c3978406da559/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_0126693099aed573a559750849a2d25362c89f74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_7c7af4f574a86d186f81001611ae15684a559ecd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_3735a1edf305db3253714ff00f185bcd7ffe746a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_ca7152ff192cdf0fa2b9123f0dfb0baf0681a147/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chris_skart/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/chris_skart/Downloads/DialectApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_7894fa64a948436f6a1bd07d3fed5a59870ba124/classes.dex" />
+    </item>
+
+</items>
